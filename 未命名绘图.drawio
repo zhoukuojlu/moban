@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-05-03T06:34:25.598Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="24.3.1" etag="_EGEihernvZmcJPKwt6s" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-03T06:40:16.137Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="e2P4nmrlQTlm_wN0rhfO" version="24.3.1" type="github">
   <diagram name="第 1 页" id="GdZX25CLRXVPu3kJ_-SC">
-    <mxGraphModel>
+    <mxGraphModel dx="1032" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ihc5pv8_lv3fqee2oShU-1" value="&lt;font face=&quot;vetical&quot;&gt;关键核心技术创新特征属性&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;textDirection=vertical-lr;spacingTop=20;spacingBottom=20;spacingLeft=2;spacingRight=2;" vertex="1" parent="1">
+          <mxGeometry x="160" y="20" width="40" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
